@@ -1,0 +1,34 @@
+body{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+     background-image:linear-gradient(rgba(0,0,0,0.70), rgba(0,0,0,0.70)), url("../image/port1.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+*{
+   padding: 0;
+   margin: 0;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.logo{
+    color: rgb(6, 7, 7);
+    font-weight: 1000;
+    background-size: 400%;
+    background: linear-gradient(90deg,rgb(236, 205, 27),rgba(34, 26, 138, 0.021),rgb(8, 69, 202),rgb(248, 0, 21));
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: animate 10s linear infinite; 
+    margin-left: 500px;
+    margin-top: 40px;
+    position: absolute;
+
+  }
